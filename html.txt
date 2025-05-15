@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free AI Video Generators 2024</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>🎥 Free AI Video Generators</h1>
+            <p>No Watermarks • No Payments • Unlimited Creativity</p>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2>Create Stunning Videos with AI — Totally Free!</h2>
+            <a href="#tools" class="btn">Explore Tools</a>
+        </div>
+    </section>
+
+    <!-- Tools List -->
+    <section id="tools" class="tools">
+        <div class="container">
+            <h2>🔥 Best Free AI Video Tools (2024)</h2>
+            <div class="tool-grid">
+                <!-- Tool 1 -->
+                <div class="tool-card">
+                    <img src="https://via.placeholder.com/100" alt="CapCut Logo">
+                    <h3>CapCut (剪映)</h3>
+                    <p>Free AI video editor with auto-captions, effects, and templates.</p>
+                    <a href="https://www.capcut.com" target="_blank" class="btn">Try Now</a>
+                </div>
+                
+                <!-- Tool 2 -->
+                <div class="tool-card">
+                    <img src="https://via.placeholder.com/100" alt="Pika Art Logo">
+                    <h3>Pika Art</h3>
+                    <p>Free text-to-video AI (limited credits).</p>
+                    <a href="https://pika.art" target="_blank" class="btn">Try Now</a>
+                </div>
+                
+                <!-- Tool 3 -->
+                <div class="tool-card">
+                    <img src="https://via.placeholder.com/100" alt="RunwayML Logo">
+                    <h3>RunwayML (Free Tier)</h3>
+                    <p>AI video editing with 125 free credits/month.</p>
+                    <a href="https://runwayml.com" target="_blank" class="btn">Try Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tutorials -->
+    <section class="tutorials">
+        <div class="container">
+            <h2>🎬 How to Use AI Video Generators</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/example" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq">
+        <div class="container">
+            <h2>❓ Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <h3>Are these tools really free?</h3>
+                <p>Yes! All listed tools have free tiers (some with minor limits).</p>
+            </div>
+            <div class="faq-item">
+                <h3>Which AI video generator has no watermark?</h3>
+                <p>CapCut and RunwayML’s free tier allow watermark-free exports.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>© 2024 Free AI Video Tools. No rights reserved. 😄</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

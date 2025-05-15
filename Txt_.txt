@@ -1,0 +1,4 @@
+your-website/  
+│── index.html          (Main page)  
+│── style.css           (Styling)  
+│── images/             (Folder for logos/screenshots)  
